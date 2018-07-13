@@ -3,6 +3,12 @@ name = "run_rust"
 version = "0.1.0"
 authors = ["Justus Adam <dev@justus.science>"]
 description = "Run rust source files directly"
+homepage = "https://github.com/JustusAdam/run-rust"
+repository = "https://github.com/JustusAdam/run-rust"
+readme = "README.md"
+categories = ["development-tools"]
+keywords = ["script", "execute", "run"]
+license-file = "LICENSE"
 
 [dependencies]
 clap = "2.32"
