@@ -1,0 +1,9 @@
+[package]
+name = "run_rust"
+version = "0.1.0"
+authors = ["Justus Adam <dev@justus.science>"]
+description = "Run rust source files directly"
+
+[dependencies]
+clap = "2.32"
+rand = "0.5"
